@@ -21,6 +21,11 @@ public class Person
     {
         return FirstName + " " + LastName;
     }
+    //method overloading
+    public string getFullName(string middleName)
+    {
+        return FirstName + " " + middleName + " " + LastName;
+    }
     public int getBirthYear()
     {
         int birthYear = DateTime.Now.Year - Age;
