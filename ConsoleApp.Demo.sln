@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.DemoExercise2", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.MethodDemo", "ConsoleApp.MethodDemo\ConsoleApp.MethodDemo.csproj", "{CE2DE525-B878-4146-972E-CF11ECD7CA97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.StringManipulationDemo", "ConsoleApp.StringManipulationDemo\ConsoleApp.StringManipulationDemo.csproj", "{3C84BE53-D785-4F0F-A9C0-89BADCA829F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{CE2DE525-B878-4146-972E-CF11ECD7CA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE2DE525-B878-4146-972E-CF11ECD7CA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE2DE525-B878-4146-972E-CF11ECD7CA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C84BE53-D785-4F0F-A9C0-89BADCA829F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C84BE53-D785-4F0F-A9C0-89BADCA829F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C84BE53-D785-4F0F-A9C0-89BADCA829F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C84BE53-D785-4F0F-A9C0-89BADCA829F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
